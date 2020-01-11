@@ -12,3 +12,7 @@ I used R to group by workstation and date to produce a aggregate numbers because
 
 ## Visualization
 Please find the visualization [here](https://jacquessham.github.io/computer_security_dataviz_viz/)
+<br>
+<br>
+And it looks like this:<br>
+<img scr="viz.png">
