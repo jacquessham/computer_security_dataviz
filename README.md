@@ -15,4 +15,4 @@ Please find the visualization [here](https://jacquessham.github.io/computer_secu
 <br>
 <br>
 And it looks like this:<br>
-<img scr="viz.png">
+<img src="viz.png">
